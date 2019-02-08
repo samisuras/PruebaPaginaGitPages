@@ -1,0 +1,61 @@
+#caja1
+{
+    background: -webkit-linear-gradient(top, #FFFFFF, #006699);
+    background: -moz-linear-gradient(top, #FFFFFF, #006699);
+}
+
+#caja2
+{
+    background: linear-gradient(90deg, #FFFFFF, #006699);
+}
+
+#caja3
+{
+    background: linear-gradient(#FFFFFF 50%, #006699 90%);
+}
+
+#caja4
+{
+    background-image: radial-gradient(#FFFFFF 0%, #006699 200%);
+}
+
+#caja5
+{
+    font: bold 15px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(233, 85, 85, 0.5) 3px 3px 5px;
+}
+
+#caja6
+{
+    background-image: radial-gradient(#FFFFFF 0%, #006699 200%);
+    text-shadow: rgba(red, green, blue, alpha);
+    color:rgb(224, 94, 94);
+}
+#caja7
+{
+    background-image: radial-gradient(#FFFFFF 0%, #055000 200%);
+    text-shadow: rgb(51, 16, 85);
+    color: hsla(290,100%,50%,0.3); 
+    border-radius: 0;
+}
+#caja8
+{
+    background-image: radial-gradient(#00F0FF 0%, #055000 200%);
+    text-shadow: rgb(230, 255, 6);
+    color: hsla(200,100%,50%,0.9); 
+    border-radius: 0; 
+}
+.bordes
+{
+    margin-left: 35vw;
+    border-radius: 15px;
+    text-align: center;
+    width: 30vw;
+    height: 8vh;
+}
+
+.centrar
+{
+    font: bold 15px MiNuevaFuente, verdana, sans-serif;
+    text-shadow: rgba(0,0,0,0.5) 3px 3px 5px;
+}
